@@ -95,7 +95,7 @@ li {
     font-size: 15px;
 }
 
-/* Styling for individual resource items */
+
 .ourp {
     background-color: #fff;
     border: 1px solid #ccc;
@@ -122,7 +122,7 @@ li {
     font-size: 0.9rem;
 }
 
-/* Responsive design for smaller screens */
+
 @media (max-width: 768px) {
     .foo {
         flex-direction: column;
